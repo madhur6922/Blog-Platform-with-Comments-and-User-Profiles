@@ -1,0 +1,8 @@
+{
+  "_id": "user123",
+  "username": "madhur",
+  "email": "madhur@example.com",
+  "password": "hashed_password",
+  "bio": "Tech enthusiast and blogger",
+  "profilePic": "https://example.com/pic.jpg"
+}
