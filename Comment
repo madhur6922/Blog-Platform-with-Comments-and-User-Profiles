@@ -1,0 +1,7 @@
+{
+  "_id": "comment001",
+  "blogId": "blog001",
+  "author": "user456",
+  "content": "Great article! Helped me a lot!",
+  "createdAt": "2025-10-30T10:05:00Z"
+}
